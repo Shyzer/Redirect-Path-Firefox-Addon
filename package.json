@@ -1,0 +1,18 @@
+{
+  "name": "RedirectPath",
+  "version": "0.0.0",
+  "description": "Redirect Path =============================",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "batch": "^0.5.3",
+    "gulp": "^3.9.1",
+    "gulp-batch": "^1.0.5",
+    "gulp-sass": "^2.2.0",
+    "gulp-watch": "^4.3.5"
+  }
+}
