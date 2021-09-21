@@ -1,11 +1,7 @@
 {
-"update_url": "https://clients2.google.com/service/update2/crx",
-
   "name": "Redirect Path",
-  "version": "2.3",
-  "version_name" : "2.3",
+  "version": "2.3.1",
   "manifest_version": 2,
-  "minimum_chrome_version" : "41",
   "description": "The HTTP Header & Redirect Checker for SEO",
 
   "icons": {  	"16": "assets/images/rpath16.png",
@@ -26,7 +22,7 @@
       "run_at": "document_start"
     }
   ],
-  "content_security_policy": "script-src 'self' https://www.googletagservices.com https://adservice.google.co.uk https://adservice.google.com https://*.doubleclick.net https://*.googlesyndication.com/ 'sha256-DDNG2paLgkZPkGIYdWjFzEJV0LiVhAEp3skFKJejwzg=' 'sha256-RHA+m8eGG5L7m4CD7L4q4mSJBprdiVkPcqbKb6ye2So=' 'sha256-Ez5tszOI7IWbpOip+ikgcDLRrI8nforn8dgkZ89qFpg=' 'unsafe-inline'; object-src 'self'",
+
   "permissions": [
     "webRequest",
     "webNavigation",
@@ -35,8 +31,7 @@
   ],
   "applications": {
     "gecko": {
-      "id": "redirectpath@ayima.com"
+      "id": "reports@heyitsfree.net"
     }
   }
-
 }
