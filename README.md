@@ -38,7 +38,7 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
+* [github of Firefox add-on code](https://github.com/Shyzer/Redirect-Path-Firefox-Addon)
 * [Hey, It's Free!](https://www.heyitsfree.net)
 * [Chrome Redirect Path Extension](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll)
 * [Ayima](https://www.ayima.com/us)
