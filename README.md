@@ -1,5 +1,4 @@
 # Redirect Path
-=============================
 
 A simple add-on for tracing & displaying the URL redirect path (if any) for a page request in Firefox. 
 
@@ -11,7 +10,7 @@ This extension was originally created by a third party for Chrome in 2018. It be
 
 ### Installation
 
-* Install the browser tool from [Firefox's official Add-Ons repository.] (https://addons.mozilla.org/en-US/firefox/)
+* Install the browser tool from Firefox's official Add-Ons repository.](https://addons.mozilla.org/en-US/firefox/)
 * No setting configuration or additional modifications are needed.
 
 ### Usage
