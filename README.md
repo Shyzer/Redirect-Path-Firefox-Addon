@@ -10,7 +10,7 @@ This extension was originally created by a third party for Chrome in 2018. It be
 
 ### Installation
 
-* Install the browser tool from Firefox's official Add-Ons repository.](https://addons.mozilla.org/en-US/firefox/)
+* Install the browser tool from [Firefox's official Add-Ons repository.](https://addons.mozilla.org/en-US/firefox/)
 * No setting configuration or additional modifications are needed.
 
 ### Usage
